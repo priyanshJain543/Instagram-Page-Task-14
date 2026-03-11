@@ -5,7 +5,7 @@ A high-fidelity UI component that replicates the iconic **Instagram double-tap**
 ---
 
 ## 🔗 Live Demo
-[**View Project Live**]()  
+[**View Project Live**]( https://priyanshjain543.github.io/Instagram-Page-Task-14/)  
 *(Replace with your actual GitHub Pages link)*
 
 ---
